@@ -1,6 +1,6 @@
 # _Portfolio Project 1_
 
-# https://github.com/asparageist/project1
+# https://github.com/asparageist/joseph-murray
 
 #### By Joseph Murray
 
