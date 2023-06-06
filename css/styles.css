@@ -10,13 +10,13 @@ p {
 
 h1 {
   font-size: 10rem;
-
   background: linear-gradient(to right, darkblue, lightblue);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
 h2 {
+  padding-left: 20px;
   color: black;
   float: left;
   text-align: center;
@@ -31,6 +31,10 @@ img {
   margin: 10px;
   float: right;
   width: 50%;
+}
+
+.black {
+  color: black;
 }
 
 .card {
